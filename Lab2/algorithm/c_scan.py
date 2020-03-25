@@ -13,17 +13,4 @@ class CScan(Scan):
         return "C-Scan Algorithm"
 
     def play_sorted(self, first, second) -> None:
-        """
-        Both are reversed!
-        :param first: first part
-        :param second: second part
-        :return:
-        """
-        for l in reversed(first):
-            l = l.block
-            self.rewound += self.calculate_rewound(l)
-            self.queue.append(l)
-        for r in reversed(second):
-            r = r.block
-            self.rewound += self.calculate_rewound(r)
-            self.queue.append(r)
+        super().play_sorted(first, reversed(second))
