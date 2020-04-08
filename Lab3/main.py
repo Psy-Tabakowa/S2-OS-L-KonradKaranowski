@@ -1,9 +1,5 @@
 from algorithms import LRU, ALRU, RAND, OPT, FIFO
 from memory_manager import MemoryManager
-from window_manager import get_windows
-
-
-from process import Process
 
 
 ALGORITHMS = (
