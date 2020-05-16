@@ -1,0 +1,3 @@
+from frames.frames_lab3.choose_frame import ChooseFrameAlg3
+from frames.frames_lab3.show_results import ResultFrameAlg3
+from frames.frames_lab3.summary_frame import SummaryAlg3

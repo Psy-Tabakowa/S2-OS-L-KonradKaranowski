@@ -1,0 +1,3 @@
+from components.access_to_processor_ import execute as execute_access_to_processor
+from components.access_to_disk_ import execute_access_to_disk
+from components.page_replacement import execute_page_replecement
