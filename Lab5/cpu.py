@@ -6,7 +6,7 @@ from typing import *
 
 class CPU:
     """
-    Class representing single CPU in multi-cpu computer
+    Class representing single core in multi-core computer
 
     Parameters:
     :param self.__cpu_load: total cpu load, at the beginning 0
