@@ -1,2 +1,3 @@
 # OS-Bill-Konrad
-Wszystkie programy na laboratoria z systemów operacyjnych do dr Bilewicza w 2020 r. 
+### Ocena: 5.5
+Wszystkie programy do laboratoriów z Systemów Operacyjnych prowadzonych w semestrze letnim 2019/20 przez dr. inż. Krzysztofa Bilewicza.
